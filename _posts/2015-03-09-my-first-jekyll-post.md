@@ -9,7 +9,7 @@ published: true
 
 ### Check it out!
 
-This is my sample Jekyll post. My next steps will be:
+This is my sample Jekyll post edit. My next steps will be:
  * Save it
  * Push it to GitHub
  * Check it out in my browser
