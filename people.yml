@@ -8,4 +8,4 @@ tags: people
 Person X
 [LinkedIn]<https://www.linkedin.com/in/gwendoline-deslyper-82705968/>
 [BASSCSS](http://www.basscss.com/)
-Go <a href='{{http://www.google.ie/}}'>here</a> for expert security advice.
+Go <a href='{{"http://www.google.ie/"}}'>here</a> for expert security advice.
