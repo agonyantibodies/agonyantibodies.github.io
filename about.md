@@ -8,7 +8,11 @@ tags: about
 Dear reader,
 
 Welcome to our blog!
-The Agony Antibodies are a collaborative of friends with a passion for all things immunology. We are a collective of people engaged with science communication and immunology/vaccinology. Most of us have graduated from the Maynooth University (Ireland) with an MSc in Immunology and Global Health. You can find more information about our members below.
+The Agony Antibodies are a collaborative of friends with a passion for all things immunology. We are a collective of people engaged with science communication and immunology/vaccinology. Most of us have graduated from Maynooth University (Ireland) with an MSc in Immunology and Global Health. You can find more information about our members here {% for page in site.pages %}
+    {% if page.tags contains "people" %}
+        <a href="{{ page.url }}">{{ page.title }}</a>
+    {% endif %}
+{% endfor %}.
 
 The group is very passionate about immunology, global health and vaccinology, and we would like to address some of the questions we often see appear on these topics. A lot of information that can be found online is confusing and sometimes counter-intuitive. This blog was therefore created to address these subjects and hopefully help clear up some of the information and disinformation. 
 
