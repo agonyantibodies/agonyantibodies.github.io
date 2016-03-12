@@ -6,3 +6,9 @@ tags: People
 ---
 
 Person X
+<div class="share-links">
+    
+          <a class="fa fa-linkedin" href="    https://ie.linkedin.com/in/gwendoline-deslyper-82705968.url={{ site.url }}{{ page.url }}&title={{ page.title }}" rel="nofollow" target="_blank" title="{{ site.text.share_buttons.linkedin }}"></a>
+    
+
+</div>
