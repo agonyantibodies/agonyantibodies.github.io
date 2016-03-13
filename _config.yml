@@ -4,7 +4,7 @@ email:       agony.antibodies@gmail.com
 author:      Gwendoline Deslyper
 description: "Immunology blog"
 baseurl:     ""
-url:         "agonyantibodies.github.io"
+url:         "http://agonyantibodies.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
