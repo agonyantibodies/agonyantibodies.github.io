@@ -17,4 +17,4 @@ We are delighted to have you on our blog and hope you have a wonderful experienc
 The Agony Antibodies
 
 <center><img src="https://raw.githubusercontent.com/agonyantibodies/agonyantibodies.github.io/master/images/Well%20Bee.jpg"></center>
-<center><font size="0.5">Content Providers(s): CDC/ Mary Hilpertshauser - This media comes from the CDC and PHIL, ID #7224.</font></center>
+<center><font size="0.5">Photo Credit: CDC/ Mary Hilpertshauser - This media comes from the CDC and PHIL, ID #7224.</font></center>
