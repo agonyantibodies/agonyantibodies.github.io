@@ -40,7 +40,7 @@ through vaccination by 1990. In 2014, the WHO found that 86% of children worldwi
 
 Even though lots of progress has been made in the last century, a lot of work is still to be done. A large number of children 
 remains unvaccinated and at risk for preventable diseases. As mentioned before, smallpox is the only eradicated disease so far.
-Other diseases, such as polio, are on the verge of elimination, but a last push is necessary to achieve this. Commitment from 
+Other diseases, such as polio, are on the verge of elimination, but a last push is needed to achieve this. Commitment from 
 governments and people together is necessary in order to eliminate other infectious diseases.
 
 Gwendoline Deslyper
