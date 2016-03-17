@@ -9,7 +9,7 @@ Humans have always been looking for ways to protect themselves against killer in
 ‘vaccination’ dating back to the year 1000. The son of a Chinese statesman was said to have received a variolation by 
 blowing pulverized smallpox scabs up his nose. Variolation was the first immunization technique developed, which uses 
 infectious material (such as pus) from smallpox infected patients. This infectious material is then scratched into the skin 
-of the patient. By giving small doses of the disease, it becomes possible to give the patient a mild form of the disease, while
+of the patient. By giving small doses of the disease, it becomes possible to give the patient a mild form of it, while
 their immune system is boosted up. This procedure was first introduced in Europe and America in the 18th century; however, it 
 had been in use for much longer. Slaves arriving in America were already variolated against smallpox, indicating that this 
 natural technique of protecting oneself against a deadly disease is much older still.
@@ -40,8 +40,8 @@ through vaccination by 1990. In 2014, the WHO found that 86% of children worldwi
 
 Even though lots of progress has been made in the last century, a lot of work is still to be done. A large number of children 
 remains unvaccinated and at risk for preventable diseases. As mentioned before, smallpox is the only eradicated disease so far.
-Other diseases, such as polio, are on the verge of elimination, but a last push is necessary to do this. Commitment from 
-governments and people to get together is necessary in order to eliminate other infectious diseases.
+Other diseases, such as polio, are on the verge of elimination, but a last push is necessary to achieve this. Commitment from 
+governments and people together is necessary in order to eliminate other infectious diseases.
 
 Gwendoline Deslyper
 
