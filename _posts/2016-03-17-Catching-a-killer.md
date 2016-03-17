@@ -2,7 +2,7 @@
 layout:     post
 title:      Catching a killer
 date:       2016-03-17
-summary:    History vaccines.
+summary:    A brief history of vaccines.
 categories: Post
 ---
 Humans have always been looking for ways to protect themselves against killer infectious diseases, with the first documented 
