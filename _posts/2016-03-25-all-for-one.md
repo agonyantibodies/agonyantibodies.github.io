@@ -41,11 +41,11 @@ Gwendoline Deslyper
 <center><img src="https://raw.githubusercontent.com/agonyantibodies/agonyantibodies.github.io/master/[%22images%22]/three%20musketeers.jpg"/></center>
 
 <font size='1'> Sources<br>
-- CDC. MMR (Measles, Mups, Rubella) VIS 2014 [Available from: http://www.cdc.gov/vaccines/hcp/vis/vis-statements/mmr.html.
-- CDC. Cancer, the Flu, and You 2015 [Available from: http://www.cdc.gov/cancer/dcpc/resources/features/cancerflu/.
-- Allen A. Vaccines: The Controversial Story of Medicine's Greatest Lifesaver: W. W. Norton; 2007.
-- Fine P, Eames K, Heymann DL. "Herd immunity": a rough guide. Clin Infect Dis. 2011;52(7):911-6.
+- CDC. MMR (Measles, Mups, Rubella) VIS 2014 [Available from: http://www.cdc.gov/vaccines/hcp/vis/vis-statements/mmr.html.<br>
+- CDC. Cancer, the Flu, and You 2015 [Available from: http://www.cdc.gov/cancer/dcpc/resources/features/cancerflu/.<br>
+- Allen A. Vaccines: The Controversial Story of Medicine's Greatest Lifesaver: W. W. Norton; 2007.<br>
+- Fine P, Eames K, Heymann DL. "Herd immunity": a rough guide. Clin Infect Dis. 2011;52(7):911-6.<br>
 - image herd immunity: By National Institutes of Health (NIH) - National Institutes of Health (NIH), Public Domain, 
-  https://commons.wikimedia.org/w/index.php?curid=29552677
+  https://commons.wikimedia.org/w/index.php?curid=29552677<br>
 - image three musketeers: http://www.allposters.com/-sp/Three-Musketeers-Raising-Swords-Posters_i9747837_.htm
 </font>
