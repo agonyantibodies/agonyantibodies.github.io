@@ -8,14 +8,13 @@ categories: Post
 Vaccines are a vital aspect of both individual and public health. On a personal level it’s important to get vaccinated in order to prevent infectious diseases. Even if you feel you’re at a low risk of becoming infected, it’s still essential to get vaccinated. Vaccination at a population level induces a phenomenon called ‘herd-immunity’. Herd immunity is especially relevant to people who are immune compromised and are thus not able to get vaccinated themselves, such as those of us with HIV, Crohn’s 
 disease, very young children, etc. 
 
-NetLogo Disease Model where Jimmy is green, the infected person is red and the immune population are blue. <br>
 ![alt text](https://raw.githubusercontent.com/agonyantibodies/agonyantibodies.github.io/master/images/jimmy.gif "NetLogo Disease Model 1")
 
 
 Yet, some people see vaccinations as counterintuitive. To their mind it’s weird to take a slight risk of getting vaccinated for a disease that is not currently causing any harm to them or their children. It’s therefore key to communicate the importance of herd immunity. The concept is simple; drastically reducing the amount of people that could become infected reduces the risk of 
-this disease spreading in the population. Here’s a quick example, Jimmy lives in a town of a 100 people. Unfortunately 10 year 
+this disease spreading in the population. Here’s a quick example, Jimmy (in green) lives in a town of a 100 people. Unfortunately 10 year 
 old Jimmy has cancer, which means he can’t get vaccinated. Because of his disease, he is very susceptible to the flu and if he 
-catches it he can get severe complications, even death. Let’s say all of Jimmy’s neighbours (99) get vaccinated against the flu. This means that if someone carrying the flu enters the town, it’s highly likely that no one in Jimmy’s town is going to get infected, because they are all immunized. The flu won’t spread in the town and Jimmy is safe. However, if only 20% of Jimmy’s neighbours are vaccinated, that means that 80 people in the town are susceptible to the flu. If someone then carries the flu into Jimmy’s town, the flu will find more susceptible people (people that can be infected). The disease will have the 
+catches it he can get severe complications, even death. Let’s say all of Jimmy’s neighbours (99 of the people in blue) get vaccinated against the flu. This means that if someone carrying the flu (in red) enters the town, it’s highly likely that no one in Jimmy’s town is going to get infected, because they are all immunized. The flu won’t spread in the town and Jimmy is safe. However, if only 20% of Jimmy’s neighbours are vaccinated, that means that 80 people in the town are susceptible to the flu. If someone then carries the flu into Jimmy’s town, the flu will find more susceptible people (people that can be infected). The disease will have the 
 opportunity to spread more easily and potentially infect Jimmy.
 
 <center><img src="https://raw.githubusercontent.com/agonyantibodies/agonyantibodies.github.io/master/[%22images%22]/Herd%20Immunity.jpg"/></center>
