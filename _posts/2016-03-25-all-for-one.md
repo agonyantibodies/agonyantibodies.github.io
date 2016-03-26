@@ -14,8 +14,12 @@ disease, very young children, etc.
 Yet, some people see vaccinations as counterintuitive. To their mind it’s weird to take a slight risk of getting vaccinated for a disease that is not currently causing any harm to them or their children. It’s therefore key to communicate the importance of herd immunity. The concept is simple; drastically reducing the amount of people that could become infected reduces the risk of 
 this disease spreading in the population. Here’s a quick example, Jimmy (in green) lives in a town of a 100 people. Unfortunately 10 year 
 old Jimmy has cancer, which means he can’t get vaccinated. Because of his disease, he is very susceptible to the flu and if he 
-catches it he can get severe complications, even death. Let’s say all of Jimmy’s neighbours (99 of the people in blue) get vaccinated against the flu. This means that if someone carrying the flu (in red) enters the town, it’s highly likely that no one in Jimmy’s town is going to get infected, because they are all immunized. The flu won’t spread in the town and Jimmy is safe. However, if only 20% of Jimmy’s neighbours are vaccinated, that means that 80 people in the town are susceptible to the flu. If someone then carries the flu into Jimmy’s town, the flu will find more susceptible people (people that can be infected). The disease will have the 
-opportunity to spread more easily and potentially infect Jimmy.
+catches it he can get severe complications, even death. Let’s say all of Jimmy’s neighbours (99 of the people in blue) get vaccinated against the flu. This means that if someone carrying the flu (in red) enters the town, it’s highly likely that no one in Jimmy’s town is going to get infected, because they are all immunized. The flu won’t spread in the town and Jimmy is safe. 
+
+![alt text](https://raw.githubusercontent.com/agonyantibodies/agonyantibodies.github.io/master/images/everyone.gif "NetLogo Disease Model 2")
+
+
+However, if only 20% of Jimmy’s neighbours are vaccinated, that means that 80 people in the town are susceptible to the flu. If someone then carries the flu into Jimmy’s town, the flu will find more susceptible people (people that can be infected). The disease will have the opportunity to spread more easily and potentially infect Jimmy.
 
 <center><img src="https://raw.githubusercontent.com/agonyantibodies/agonyantibodies.github.io/master/[%22images%22]/Herd%20Immunity.jpg"/></center>
 
