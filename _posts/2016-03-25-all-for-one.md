@@ -8,7 +8,7 @@ categories: Post
 Vaccines are a vital aspect of both individual and public health. On a personal level it’s important to get vaccinated in order to prevent infectious diseases. Even if you feel you’re at a low risk of becoming infected, it’s still essential to get vaccinated. Vaccination at a population level induces a phenomenon called ‘herd-immunity’. Herd immunity is especially relevant to people who are immune compromised and are thus not able to get vaccinated themselves, such as those of us with HIV, Crohn’s 
 disease, very young children, etc. 
 
-NetLogo Disease Model where Jimmy is green, the infected person is red and the immune population are blue. 
+NetLogo Disease Model where Jimmy is green, the infected person is red and the immune population are blue. <br>
 ![alt text](https://raw.githubusercontent.com/agonyantibodies/agonyantibodies.github.io/master/images/jimmy.gif "NetLogo Disease Model 1")
 
 
