@@ -31,7 +31,7 @@ While pyriproxyfen, the pesticide currently being blamed for the outbreak, is us
 three of the cities which have reported the majority of the cases of both Zika and microcephaly - Recife, Jaboatao and Paulista. 
 Pyriproxyfen has been approved for use for 20 years and in 40 countries around the world; it is currently used as a pesticide on 
 citrus fruits in Israel, South Africa, Spain and Italy, places where there is no current outbreak of microcephaly. In South America, 
-it has been used for over a decade. Additionally, the WHO cites animal studies have shown that the larvicide is filtered out through 
+it has been used for over a decade. Additionally, the WHO cites animal studies which have shown that the larvicide is filtered out through 
 the urine within 48 hours of ingestion. 
 
 Scientific tests have found presence of the Zika virus in the blood, tissues, and amniotic fluid of infants with microcephaly which 
