@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Zika and pesticides: innocent until proven guilty
+title:      Zika and pesticides - innocent until proven guilty
 date:       2016-04-01
 summary:    Are pesticides the cause of the microcephaly epidemic?
 categories: Post
@@ -13,14 +13,14 @@ and how can you protect yourself?
 
 <center><img src="https://raw.githubusercontent.com/agonyantibodies/agonyantibodies.github.io/master/images/Zika%20stork.png"/></center>
 
-Zika was first discovered in the Zika forest in Uganda in 1947. The virus is transmitted by the <i> Aedes egypti <\i> mosquito, 
+Zika was first discovered in the Zika forest in Uganda in 1947. The virus is transmitted by the <i> Aedes egypti </i> mosquito, 
 a species of mosquito that is very closely associated with human beings and is known to transmit yellow fever, dengue, and 
 chikungunya as well. This mosquito is common in many places around the world, and can be difficult to control as their eggs stay 
 viable for up to a year after being completely dried out. Once the eggs are back in a wet environment they will hatch. 
 
 This is a huge problem in tropical countries, where mosquitoes have access to ample water sources all year round.  In order to solve 
 this problem pesticides are applied to pools of standing water where mosquitoes may breed; this may even include drinking water. In 
-Brazil, the pesticide used to eradicate the <i> Aedes aegypti <\i> mosquito is called pyriproxyfen. Pyriproxyfen acts by mimicking 
+Brazil, the pesticide used to eradicate the <i> Aedes aegypti </i> mosquito is called pyriproxyfen. Pyriproxyfen acts by mimicking 
 a hormone found in invertebrates that is not seen in mammalian animals, and thus, even at extremely high doses, it usually does not 
 affect the animals. But still many people are wondering if it is this pesticide that is causing the recent surge in microcephaly in 
 infants. It is here that we must remember: correlation does not imply causation.
