@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Exercise, systemic inflammation, and visceral fat – the good, the bad and the ugly
+title:      Exercise, inflammation, and fat – the good, the bad and the ugly
 date:       2016-04-08
 summary:    The interplay between exercise and inflammation in chronic diseases
 categories: Post
