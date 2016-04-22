@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Who is on Your Team? 
+title:      Who's on Your Team? 
 date:       2016-04-22
 summary:    The Key Players of the Immune System
 categories: Post
