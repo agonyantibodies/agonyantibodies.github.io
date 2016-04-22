@@ -43,7 +43,7 @@ digesting it, and then breaking it down into smaller proteins to be presented to
 <u>Major Histocompatibility Complex (MHC):</u> Takes small protein fragments from pathogens and pushes them to the cell surface to be 
 presented to other immune cells.
 
-<u>Interferons:</u> The proteins are incredibly important to your innate immune system and act to prevent the replication of viruses 
+<u>Interferons:</u> These proteins are incredibly important to your innate immune system and act to prevent the replication of viruses 
 and to increase the activity of MHC molecules.
 
 <u>Complement Proteins:</u> Act to break down the cell walls of bacteria which causes them to become porous; the influx or outflux of 
@@ -63,7 +63,7 @@ blood vessels, which in turn allows immune cells to flow more freely through the
 
 The adaptive immune system is much more complicated in its workings, but at a basic level there are two main cells:
 
-<u>B Cells:</u> White blood cells, lymphocytes, which have numerous sites that can identify various pathogenic proteins and organic 
+<u>B Cells:</u> White blood cells, lymphocytes, which have numerous sites on their outside surface that can identify various pathogenic proteins and organic 
 matter. Once these B-cell receptors have identified a specific antigen they will bind to it and begin to rapidly multiply, these newly 
 replicated cells are referred to as antibodies. Once these antibodies are created they will be pathogen specific, and will seek out any 
 of those pathogenic cells and mark them for destruction. This is one way that your body tries to protect you from getting sick from the 
