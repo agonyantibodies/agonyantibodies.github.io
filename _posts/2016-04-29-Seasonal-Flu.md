@@ -14,6 +14,8 @@ on their surface which are recognized by the immune system: hemagglutinin and ne
 characteristic names e.g. H1N1. The seasonal flu vaccine has to give protection to at least three different types of flu: two types of influenza A 
 (currently H1N1 and H3N2) and one type of influenza B.
 
+<center><img src="https://raw.githubusercontent.com/agonyantibodies/agonyantibodies.github.io/master/images/flu%20immune%20system.jpg"/></center>
+
 Which exact strains go into the vaccine is decided yearly by a team of scientists and doctors at the WHO. Doctors all over the world swab the noses of 
 patients who come to them with flu-like symptoms. These swabs are analysed in specialised labs called ‘National Influenza Centres’, where they determine 
 the exact strains that are circulating in the population. There are 110 such centres in 80 different countries. 
@@ -35,8 +37,6 @@ as the 1918 Spanish influenza epidemic, which infected half the world’s popula
 being an intermediate host (for example a pig) being infected with both an avian and a human strain of the flu virus. In the pig, the viruses can then exchange 
 genetic material, resulting in a brand new, never before seen virus that can infect humans. The fact that it is brand new means that no one in the population has 
 built up immunity against it. Luckily antigenic shift is observed on average only 3 times per 100 year. 
-
-<center><img src="https://raw.githubusercontent.com/agonyantibodies/agonyantibodies.github.io/master/images/flu%20immune%20system.jpg"/></center>
 
 Gwendoline Deslyper
 
