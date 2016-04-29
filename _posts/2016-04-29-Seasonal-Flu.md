@@ -30,13 +30,13 @@ hemagglutinin and neuraminidase undergo slight changes over time, this is becaus
 through the population, people become immune to it, so the virus has to adapt so it can infect more people. If antigenic drift is detected in the flu, while the 
 flu vaccine is already being produced for next winter, it’s too late to do anything about it. 
 
+<center><img src="https://raw.githubusercontent.com/agonyantibodies/agonyantibodies.github.io/master/images/Influenza_geneticshift.jpg"/></center>
+
 Antigenic shift, on the other hand, is rarer and more dangerous. It is only seen in type A influenza. This phenomenon is what causes major flu outbreaks, such 
 as the 1918 Spanish influenza epidemic, which infected half the world’s population. There are several ways through which antigenic shift can occur, one of them 
 being an intermediate host (for example a pig) being infected with both an avian and a human strain of the flu virus. In the pig, the viruses can then exchange 
 genetic material, resulting in a brand new, never before seen virus that can infect humans. The fact that it is brand new means that no one in the population has 
 built up immunity against it. Luckily antigenic shift is observed on average only 3 times per 100 year. 
-
-<center><img src="https://raw.githubusercontent.com/agonyantibodies/agonyantibodies.github.io/master/images/Influenza_geneticshift.jpg"/></center>
 
 Gwendoline Deslyper
 
