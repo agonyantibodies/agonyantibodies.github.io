@@ -44,7 +44,7 @@ this can be useful in preventing our T cells from attacking our own cells, cance
 carry PD-L1 molecules. Monoclonal antibodies that bind to either the PD-1 protein or the PD-L1 protein prevent the two from binding to 
 one another, allowing the T cells to recognize and attack the cancer cells. 
 
-<center><img src="https://github.com/agonyantibodies/agonyantibodies.github.io/blob/master/images/Cancer2.jpg"/></center>
+<center><img src="https://raw.githubusercontent.com/agonyantibodies/agonyantibodies.github.io/master/images/Cancer2.jpg"/></center>
 
 Another form of cancer immunotherapy is through vaccination. Vaccines can be administered to prevent viruses known to cause cancer or 
 to treat the cancer itself. Preventative vaccinations have proven to be beneficial in reducing the likelihood of cervical, anal, and 
