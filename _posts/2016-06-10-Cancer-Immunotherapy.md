@@ -44,7 +44,7 @@ this can be useful in preventing our T cells from attacking our own cells, cance
 carry PD-L1 molecules. Monoclonal antibodies that bind to either the PD-1 protein or the PD-L1 protein prevent the two from binding to 
 one another, allowing the T cells to recognize and attack the cancer cells. 
 
-<center><img src="https://github.com/agonyantibodies/agonyantibodies.github.io/blob/master/images/Cancer2.jpg"></center>
+<center><img src="https://github.com/agonyantibodies/agonyantibodies.github.io/blob/master/images/Cancer2.jpg"/></center>
 
 Another form of cancer immunotherapy is through vaccination. Vaccines can be administered to prevent viruses known to cause cancer or 
 to treat the cancer itself. Preventative vaccinations have proven to be beneficial in reducing the likelihood of cervical, anal, and 
@@ -61,11 +61,11 @@ their disease. This exciting new field in cancer research may be the key to fina
 Margo Henkhaus
 
 <font size='1'> Sources<br>
-http://www.cancer.org/treatment/treatmentsandsideeffects/treatmenttypes/immunotherapy/
-http://www.cancersupportcommunity.org/learn-about-cancer/learn-about-cancer-topics/immunotherapy-right-you
-http://www.nature.com/reviews/focus/tumourimmunology/index.html?WT.ec_id=SLBU_COMMS
+http://www.cancer.org/treatment/treatmentsandsideeffects/treatmenttypes/immunotherapy/<br>
+http://www.cancersupportcommunity.org/learn-about-cancer/learn-about-cancer-topics/immunotherapy-right-you<br>
+http://www.nature.com/reviews/focus/tumourimmunology/index.html?WT.ec_id=SLBU_COMMS<br>
 
-Pictures:
-http://www.cancerresearchuk.org/about-cancer/cancers-in-general/treatment/biological/types/about-monoclonal-antibodies
-http://www.agenciasinc.es/en/Report/Why-immunotherapy-for-cancer-is-the-scientific-breakthrough-of-the-year
+Pictures:<br>
+http://www.cancerresearchuk.org/about-cancer/cancers-in-general/treatment/biological/types/about-monoclonal-antibodies<br>
+http://www.agenciasinc.es/en/Report/Why-immunotherapy-for-cancer-is-the-scientific-breakthrough-of-the-year<br>
 </font>
