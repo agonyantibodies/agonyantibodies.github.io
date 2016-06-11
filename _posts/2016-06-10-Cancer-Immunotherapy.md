@@ -10,7 +10,7 @@ battles end the way we would hope, and often times the cancer wins. Cancer is a 
 funneled into cancer research the disease usually seems to evade our best efforts. 
 
 This happens because our immune system is designed to attack cells that are foreign to our bodies; cancer cells are not. Cancer cells 
-develop when our own cells mutate and begin to replicate out of control. The reason Oour immune system often does not recognize the 
+develop when our own cells mutate and begin to replicate out of control. The reason our immune system often does not recognize the 
 disease, is because it hasis built to seek out foreign cells for destruction and a very important system of checks and balances is in 
 place to make sure that it does not attack our own cells. Sometimes the cancer cells themselves may secrete substances that prevent 
 the immune system from identifying the tumors. Other times, the immune system does recognize these cells as harmful but may not be 
