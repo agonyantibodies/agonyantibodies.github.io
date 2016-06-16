@@ -10,8 +10,7 @@ battles end the way we would hope, and often times the cancer wins. Cancer is a 
 funneled into cancer research the disease usually seems to evade our best efforts. 
 
 This happens because our immune system is designed to attack cells that are foreign to our bodies; cancer cells are not. Cancer cells 
-develop when our own cells mutate and begin to replicate out of control. The reason our immune system often does not recognize the 
-disease, is because it hasis built to seek out foreign cells for destruction and a very important system of checks and balances is in 
+develop when our own cells mutate and begin to replicate out of control. The reason our  body does not recognize the disease is because it is built to seek out foreign cells for destruction and a very important system of checks and balances is in 
 place to make sure that it does not attack our own cells. Sometimes the cancer cells themselves may secrete substances that prevent 
 the immune system from identifying the tumors. Other times, the immune system does recognize these cells as harmful but may not be 
 strong enough to fight off the cancer.
@@ -20,9 +19,9 @@ Immunotherapy is a new, and very promising, approach to fighting cancer by stimu
 This can be done by boosting the entire immune system to respond more readily or by helping the immune system identify and specifically 
 attack cancer cells.
 
-One type of immunotherapy utilized monoclonal antibodies. Monoclonal antibodies (mAbs) are commonly used in treating autoimmune 
+One type of immunotherapy utilizes monoclonal antibodies. Monoclonal antibodies (mAbs) are commonly used in treating autoimmune 
 diseases and are becoming a popular therapeutic option across all medical specialties. Monoclonal antibodies are humanized antibodies 
-that are developed in a lab setting. By tailoring these antibodies to targetbind particular protein sequences, scientists are able to 
+that are developed in a lab setting. By tailoring these antibodies to bind particular protein sequences, scientists are able to 
 target cells with incredible specificity allowing the immune system to mount an attack against these cells. In cancer immunotherapy 
 three types of monoclonal antibodies are used; naked, conjugated, and bispecific. 
 
@@ -50,7 +49,7 @@ Another form of cancer immunotherapy is through vaccination. Vaccines can be adm
 to treat the cancer itself. Preventative vaccinations have proven to be beneficial in reducing the likelihood of cervical, anal, and 
 throat cancer caused by the human papilloma virus (HPV) and liver cancer cancer caused by hepatitis B. In these viruses chronic 
 infection damages the cells which can lead to the formation of cancerous tumors over time. By preventing these infections one can 
-prevent potential damage to the cells. Vaccines that target and treat cancer itself are much less common, in fact there is only one 
+prevent potential damage to the cells. Vaccines that target and treat cancer itself are much less common, in fact, there is only one 
 that is approved for use in the United States (Provenge, which fights against prostate cancer). The development of these vaccines is 
 ongoing and will hopefully provide another means of initiating the immune system to specifically target cancer cells.
 
